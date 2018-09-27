@@ -1,0 +1,11 @@
+{
+  "name": "display-related-posts-genesis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SEO Themes",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-wp-plugin-toolkit": "^1.0.0"
+  }
+}

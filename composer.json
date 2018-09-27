@@ -1,0 +1,26 @@
+{
+  "name": "seothemes/display-related-posts-genesis",
+  "description": "Displays related posts for Genesis powered sites.",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "genesis",
+    "display-related-posts-genesis"
+  ],
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "SEO Themes",
+      "homepage": "https://seothemes.com",
+      "role": "developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SeoThemes\\DisplayRelatedPostsGenesis\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^5.4"
+  }
+}
